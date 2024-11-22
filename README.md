@@ -13,7 +13,7 @@ This has only been tested with:
 ## Table of Contents
 - [Project Title and Description](#project-title-and-description)
 - [Installation and Setup](#installation-and-setup)
-- [Usage Instructions](#usage-instructions)
+- [GUI Usage Instructions](#GUI-usage-instructions)
 - [Licenses](#licenses)
 - [Libraries](#libraries)
 
@@ -23,7 +23,7 @@ This project is designed to control a quadruped robot using a set of servos. It 
 - The ability to save and load robot states.
 - Communication with a Raspberry Pi Pico W via serial.
 
-## Installation and Setup Instructions
+## Installation and Setup 
 1. Clone this repository:
 ```bash
 git clone https://github.com/neelk-07/Quadruped-Robot-Project.git
