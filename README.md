@@ -37,8 +37,11 @@ pip install -r requirements.txt
 3. Setup microcontroller environment:
 - Connect the microcontroller to your PC via USB.
 - Open Thonny, then go to **Tools > Options > Interpreter** and select MicroPython (Raspberry Pi Pico) for the interpreter. Then select the appropriate COM port for your microcontroller from the list (you can check the assigned COM port in the **Device Manager** on Windows).
+  
 4. Upload the `Quadruped_Thonny.py` file onto the microcontroller's filesystem. This file contains the main program logic for receiving commands from the GUI.
+
 5. Once the file is saved onto the Pico Pi, hit run on Thonny and you should see the shell say `Starting main loop...`. Once loop has started, close Thonny, still keeping the microcontroller plugged in.
+
 6. Open the GUI:
 - With VSCode, select the "Open Folder" option, locate the cloned folder location and select the folder. A trust author option should appear so click yes. Now, in VSCode with the folder opened, locate the Quadruped_PCSide.py and open it. This is where the GUI can be run. Now hit the run button and the Tkinter based GUI should appear.
 ## Usage Instructions
