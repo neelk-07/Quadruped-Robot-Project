@@ -53,7 +53,7 @@ pip install -r requirements.txt
 - The `Update Pico` sends a command via serial communication to the Raspberry Pi Pico W, which adjusts the servo positions to the position the sliders are set to at that point. There is also a "Stand" button which is a preset to set all servos to the correct position to make the robot stand.
 
 ### Demo Video (showcasing functionality):
-[Watch the video](https://www.youtube.com/shorts/xikzhpxLIr0)
+[Watch the video](https://youtube.com/shorts/5X5TBI-delc?feature=share)
 
 ## Licenses
 This project is licensed under the MIT and PSF Licenses
