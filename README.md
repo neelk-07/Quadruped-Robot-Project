@@ -43,7 +43,7 @@ pip install -r requirements.txt
 5. Once the file is saved onto the Pico Pi, hit run on Thonny and you should see the shell say `Starting main loop...`. Once loop has started, close Thonny, still keeping the microcontroller plugged in.
 
 6. Open the GUI:
-- With VSCode, select the "Open Folder" option, locate the cloned folder location and select the folder. A trust author option should appear so click yes. Now, in VSCode with the folder opened, locate the Quadruped_PCSide.py and open it. This is where the GUI can be run. Now hit the run button and the Tkinter based GUI should appear.
+- With VSCode, select the "Open Folder" option, locate the cloned folder location and select the folder. A trust author option should appear so click yes. Now, in VSCode with the folder opened, locate the `Quadruped_PCSide.py` and open it. This is where the GUI can be run. Now hit the run button and the Tkinter based GUI should appear.
 ## GUI Usage Instructions
 ### Robot Leg Sliders
 - There will be a slider 0-180 for each servo with a label on its left stating which servo each slider corresponds to. You can adjust the slider with the slider handle or by entering a specific value into the entry fields next to the sliders for precision (entered number must be within 0-180).
