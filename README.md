@@ -1,4 +1,4 @@
-# Quadruped Robot Controller
+# Quadruped Robot Project [Neel Kumar]
 
 A Python-based control system for a quadruped robot featuring a graphical user interface (GUI) to manage the positions angles of the robot's servos. This system lets users to control the servos, save and load different robot states and to communicate with a microcontroller using serial communication.
 
